@@ -104,5 +104,5 @@ By understanding phishing indicators and practicing safe browsing habits, users 
 
 # Author
 
-Jeffery Donkoh  
+Jeffery Donkoh Ata
 Computer Science (Cyber Security) Student
