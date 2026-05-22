@@ -1,4 +1,5 @@
-# Password Strength Checker
+## Project Title
+Password Strength Checker
 
 ## Description
 The Password Strength Checker is a Python program that checks how strong a password is based on common password security rules.  
@@ -67,15 +68,10 @@ Password Strength: STRONG
 
 ---
 
-## Project Title
-Password Strength Checker
-
----
-
 ## Language Used
 - Python 3
 
 ---
 
 ## Author
-Jeffery Donkoh
+Jeffery Donkoh Ata
