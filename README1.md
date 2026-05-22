@@ -120,4 +120,8 @@ By completing this project, you will learn:
 
 ## ✅ Conclusion
 This project serves as a simple introduction to cybersecurity and cryptography. It demonstrates how information can be protected using basic encryption techniques and provides a strong foundation for more advanced cybersecurity concepts in the future.
-````
+
+# Author
+
+Jeffery Donkoh Ata
+Computer Science (Cyber Security) Student
